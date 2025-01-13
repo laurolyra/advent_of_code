@@ -1,7 +1,7 @@
-## Scrapper for Advent of Code's challenges
+## Scraper for Advent of Code's challenges
 
 ### What's been done here
-This project consists in a interactive scrapper to [advent of code's](https://adventofcode.com/) daily challenges, taking its text and saving into an .md file.
+This project consists in a interactive scraper to [advent of code's](https://adventofcode.com/) daily challenges, taking its text and saving into an .md file.
 
 ### Setup
 1. Clone this repo
